@@ -1,0 +1,966 @@
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe.config
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.AssemblyReference.cache
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Login.resources
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Properties.Resources.resources
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.GenerateResource.cache
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Home.resources
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\bin\Debug\Guna.UI2.dll
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CopyComplete
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.UserControl1.resources
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.CustomerDetails.resources
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Payment.resources
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.RCheckOut.resources
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._101.resources
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Food.resources
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeping.resources
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Invoice.resources
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.landF.resources
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Reservation.resources
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.RService.resources
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._102.resources
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._103.resources
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._104.resources
+C:\Users\niyaz\source\repos\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._105.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe.config
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\bin\Debug\Guna.UI2.dll
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.AssemblyReference.cache
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._101.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._102.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._103.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._104.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._201.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._202.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._203.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._301.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._302.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._401.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._402.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._403.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.CustomerDetails.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Food.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Home.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeping.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Invoice.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.landF.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Login.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Payment.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Properties.Resources.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.RCheckOut.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Reservation.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.RService.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.UserControl1.resources
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.GenerateResource.cache
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CopyComplete
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Downloads\Compressed\HotelManageMentSystem\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe.config
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\bin\Debug\Guna.UI2.dll
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.AssemblyReference.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._101.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._102.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._103.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._104.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._201.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._202.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._203.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._301.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._302.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._401.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._402.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._403.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Login.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Properties.Resources.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.GenerateResource.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CopyComplete
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ForgetPass.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ResetPage.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.mRoomManager.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ManagerHome.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.RoomAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.UserTable.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteForm.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.AddUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.DeleteUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.houseKeeperAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteHouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.addReceptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteRecep.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Manage_Room.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Lost_and_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_HouseKeeping.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_RoomService.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_Food.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Customer.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem 2\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_CustomerDetails.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe.config
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\bin\Debug\Guna.UI2.dll
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.AssemblyReference.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Customer.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Lost_And_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.addReceptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteRecep.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteHouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.houseKeeperAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.DeleteUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.AddUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteForm.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Manage_Room.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._101.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._102.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._103.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._104.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._201.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._202.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._203.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._301.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._302.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._401.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._402.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._403.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_CustomerDetails.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_Food.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ForgetPass.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_HouseKeeping.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Login.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ManagerHome.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.mRoomManager.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Properties.Resources.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ResetPage.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.RoomAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_RoomService.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.UserTable.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.GenerateResource.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CopyComplete
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe.config
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\bin\Debug\Guna.UI2.dll
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.AssemblyReference.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Customer.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Lost_And_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.addReceptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteRecep.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteHouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.houseKeeperAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.DeleteUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.AddUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteForm.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Manage_Room.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._101.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._102.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._103.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._104.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._201.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._202.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._203.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._301.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._302.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._401.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._402.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._403.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_CustomerDetails.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_Food.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ForgetPass.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_HouseKeeping.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Login.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ManagerHome.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.mRoomManager.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Properties.Resources.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ResetPage.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.RoomAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_RoomService.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.UserTable.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.GenerateResource.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CopyComplete
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Manager_Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Loading.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe.config
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\bin\Debug\Guna.UI2.dll
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.AssemblyReference.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Loading.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Manager_Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Customer.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Lost_And_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.addReceptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteRecep.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteHouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.houseKeeperAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.DeleteUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.AddUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteForm.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Manage_Room.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._101.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._102.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._103.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._104.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._201.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._202.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._203.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._301.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._302.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._401.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._402.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._403.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_CustomerDetails.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_Food.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ForgetPass.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_HouseKeeping.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Login.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ManagerHome.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.mRoomManager.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Properties.Resources.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ResetPage.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.RoomAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_RoomService.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.UserTable.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.GenerateResource.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CopyComplete
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-1\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe.config
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\bin\Debug\Guna.UI2.dll
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.AssemblyReference.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Loading.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Manager_Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Customer.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Lost_And_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.addReceptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteRecep.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteHouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.houseKeeperAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.DeleteUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.AddUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteForm.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Manage_Room.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._101.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._102.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._103.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._104.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._201.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._202.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._203.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._301.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._302.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._401.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._402.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._403.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_CustomerDetails.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_Food.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ForgetPass.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_HouseKeeping.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Login.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ManagerHome.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.mRoomManager.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Properties.Resources.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ResetPage.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.RoomAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_RoomService.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.UserTable.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.GenerateResource.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CopyComplete
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Found_Item.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-2\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found_Menu.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe.config
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\bin\Debug\Guna.UI2.dll
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.AssemblyReference.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Found_Item.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found_Menu.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Loading.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Manager_Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Customer.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Lost_And_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.addReceptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteRecep.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteHouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.houseKeeperAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.DeleteUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.AddUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteForm.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Manage_Room.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._101.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._102.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._103.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._104.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._201.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._202.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._203.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._301.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._302.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._401.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._402.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._403.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_CustomerDetails.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_Food.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ForgetPass.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_HouseKeeping.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Login.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ManagerHome.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.mRoomManager.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Properties.Resources.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ResetPage.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.RoomAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_RoomService.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.UserTable.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.GenerateResource.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CopyComplete
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-3\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe.config
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\bin\Debug\Guna.UI2.dll
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.AssemblyReference.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Found_Item.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found_Menu.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Loading.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Manager_Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Customer.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Lost_And_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.addReceptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteRecep.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteHouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.houseKeeperAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.DeleteUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.AddUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteForm.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Manage_Room.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._101.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._102.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._103.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._104.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._201.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._202.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._203.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._301.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._302.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._401.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._402.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._403.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_CustomerDetails.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_Food.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ForgetPass.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_HouseKeeping.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Login.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ManagerHome.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.mRoomManager.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Properties.Resources.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ResetPage.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.RoomAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_RoomService.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.UserTable.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.GenerateResource.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CopyComplete
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.AssemblyReference.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Found_Item.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found_Menu.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Loading.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Manager_Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Customer.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Lost_And_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.addReceptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteRecep.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteHouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.houseKeeperAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.DeleteUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.AddUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteForm.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Manage_Room.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._101.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._102.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._103.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._104.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._201.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._202.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._203.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._301.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._302.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._401.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._402.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._403.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_CustomerDetails.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_Food.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ForgetPass.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_HouseKeeping.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Login.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ManagerHome.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.mRoomManager.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Properties.Resources.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ResetPage.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.RoomAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_RoomService.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.UserTable.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.GenerateResource.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe.config
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\bin\Debug\Guna.UI2.dll
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-4\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CopyComplete
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe.config
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\bin\Debug\Guna.UI2.dll
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.AssemblyReference.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Found_Item.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found_Menu.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Loading.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Manager_Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Customer.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Lost_And_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.addReceptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteRecep.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteHouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.houseKeeperAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.DeleteUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.AddUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteForm.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Manage_Room.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._101.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._102.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._103.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._104.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._201.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._202.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._203.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._301.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._302.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._401.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._402.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._403.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_CustomerDetails.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_Food.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ForgetPass.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_HouseKeeping.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Login.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ManagerHome.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.mRoomManager.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Properties.Resources.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ResetPage.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.RoomAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_RoomService.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.UserTable.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.GenerateResource.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CopyComplete
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-5\HotelManageMentSystem Final_V-4\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe.config
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\bin\Debug\Guna.UI2.dll
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.AssemblyReference.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Found_Item.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found_Menu.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Loading.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Manager_Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Customer.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Lost_And_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.addReceptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteRecep.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteHouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.houseKeeperAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.DeleteUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.AddUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteForm.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Manage_Room.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._101.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._102.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._103.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._104.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._201.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._202.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._203.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._301.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._302.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._401.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._402.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._403.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_CustomerDetails.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_Food.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ForgetPass.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_HouseKeeping.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Login.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ManagerHome.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.mRoomManager.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Properties.Resources.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ResetPage.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.RoomAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_RoomService.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.UserTable.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.GenerateResource.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CopyComplete
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-6\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.AssemblyReference.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Found_Item.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found_Menu.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Loading.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Manager_Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Customer.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Lost_And_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.addReceptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteRecep.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteHouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.houseKeeperAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.DeleteUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.AddUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteForm.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Manage_Room.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._101.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._102.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._103.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._104.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._201.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._202.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._203.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._301.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._302.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._401.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._402.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._403.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_CustomerDetails.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ForgetPass.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_HouseKeeping.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Login.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ManagerHome.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.mRoomManager.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Properties.Resources.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ResetPage.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.RoomAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.UserTable.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.GenerateResource.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe.config
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\bin\Debug\Guna.UI2.dll
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-7\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CopyComplete
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe.config
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\bin\Debug\Guna.UI2.dll
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.AssemblyReference.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Found_Item.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found_Menu.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Loading.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Manager_Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Customer.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Lost_And_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.addReceptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteRecep.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteHouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.houseKeeperAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.DeleteUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.AddUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteForm.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Manage_Room.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._101.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._102.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._103.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._104.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._201.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._202.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._203.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._301.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._302.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._401.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._402.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._403.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_CustomerDetails.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ForgetPass.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_HouseKeeping.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Login.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ManagerHome.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.mRoomManager.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Properties.Resources.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ResetPage.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.RoomAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.UserTable.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.GenerateResource.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CopyComplete
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-8\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe.config
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\bin\Debug\Guna.UI2.dll
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.AssemblyReference.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Found_Item.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found_Menu.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Loading.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Manager_Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Customer.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Lost_And_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.addReceptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteRecep.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteHouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.houseKeeperAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.DeleteUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.AddUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteForm.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Manage_Room.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._101.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._102.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._103.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._104.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._201.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._202.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._203.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._301.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._302.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._401.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._402.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._403.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_CustomerDetails.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ForgetPass.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_HouseKeeping.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Login.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ManagerHome.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.mRoomManager.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Properties.Resources.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ResetPage.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.RoomAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.UserTable.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.GenerateResource.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CopyComplete
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Form1.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe.config
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\bin\Debug\Guna.UI2.dll
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.AssemblyReference.cache
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.CustomerSignUp.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Found_Item.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found_Menu.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Loading.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Manager_Payment.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Customer.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Home.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Lost_And_Found.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Service.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.addReceptionist.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteRecep.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteHouseKeeper.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.houseKeeperAdd.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.DeleteUser.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.AddUser.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteForm.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Manage_Room.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Service.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._101.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._102.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._103.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._104.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._201.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._202.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._203.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._301.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._302.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._401.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._402.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._403.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_CustomerDetails.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ForgetPass.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Home.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_HouseKeeping.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Login.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ManagerHome.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.mRoomManager.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Payment.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Properties.Resources.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ResetPage.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.RoomAdd.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.UserTable.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.GenerateResource.cache
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CopyComplete
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Customer_Home.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Update_Customer_Data.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Customer_Manage_Room.resources
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\bin\Debug\Telerik.WinControls.dll
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\bin\Debug\TelerikCommon.dll
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\bin\Debug\Telerik.WinControls.xml
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\niyaz\Desktop\C# Project\HotelManageMentSystem Final_V-9\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Invoice.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.AssemblyReference.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.CustomerSignUp.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Customer_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Customer_Manage_Room.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Invoice.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Found_Item.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found_Menu.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Loading.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Manager_Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Customer.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Lost_And_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.addReceptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteRecep.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteHouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.houseKeeperAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.DeleteUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.AddUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteForm.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Manage_Room.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._101.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._102.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._103.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._104.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._201.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._202.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._203.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._301.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._302.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._401.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._402.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._403.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_CustomerDetails.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ForgetPass.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_HouseKeeping.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Login.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ManagerHome.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.mRoomManager.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Properties.Resources.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ResetPage.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.RoomAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.UserTable.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Update_Customer_Data.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.GenerateResource.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe.config
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\bin\Debug\Guna.UI2.dll
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\bin\Debug\Telerik.WinControls.dll
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\bin\Debug\TelerikCommon.dll
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\bin\Debug\Telerik.WinControls.xml
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V10\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CopyComplete
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe.config
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\bin\Debug\HotelManageMentSystem.pdb
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\bin\Debug\Guna.UI2.dll
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\bin\Debug\Telerik.WinControls.dll
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\bin\Debug\TelerikCommon.dll
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\bin\Debug\Telerik.WinControls.xml
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.AssemblyReference.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.CustomerSignUp.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Customer_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Customer_Manage_Room.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Invoice.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Found_Item.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found_Menu.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Loading.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Manager_Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Customer.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Lost_And_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.addReceptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteRecep.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteHouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.HouseKeeper.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.houseKeeperAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.DeleteUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.AddUser.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.deleteForm.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Manage_Room.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Service.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._101.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._102.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._103.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._104.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._201.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._202.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._203.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._301.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._302.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._401.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._402.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem._403.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_CustomerDetails.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ForgetPass.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Home.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Receptionist_Add_HouseKeeping.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Add_Lost_and_Found.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Login.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ManagerHome.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.mRoomManager.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Payment.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Properties.Resources.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.ResetPage.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.RoomAdd.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.UserTable.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.Update_Customer_Data.resources
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.GenerateResource.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.csproj.CopyComplete
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.exe
+C:\Users\niyaz\Desktop\HotelManageMentSystem Final_V11\HotelManageMentSystem\obj\Debug\HotelManageMentSystem.pdb
